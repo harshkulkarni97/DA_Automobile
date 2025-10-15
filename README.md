@@ -84,5 +84,5 @@ The analysis led to several measurable improvements:
 
 ## Author
 
-*Your Name*  
-B.Tech Final Year, Mechanical Engineering
+*Harsh Kulkarni*  
+B.Tech Final Year, Metallurgical and Materials Engineering
